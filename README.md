@@ -30,7 +30,7 @@ Implemented and evaluated several regression models:
 - Random Forest Regressor
 
 ## Performance Evaluation
-Models were evaluated using Mean Absolute Error (MAE). The Random Forest Regressor achieved the lowest MAE of 2318.35, indicating the most accurate predictions.
+Models were evaluated using  R² score. The Random Forest Regressor achieved the lowest  R² score of 0.87, indicating the most accurate predictions.
 
 ## Results and Conclusion
 The project successfully demonstrated the ability to preprocess and analyze healthcare data, and to apply machine learning techniques for real-time cost prediction. The Random Forest model provides valuable insights for setting insurance premiums.
